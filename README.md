@@ -24,27 +24,41 @@
 
 ### 📝 Description:
 
-A Budget Tracker that lets users access both online/offline.
+A Budget Tracker that lets users access both online/offline. Users can add expenses and deposits to their budget. These entries can populate and store online & offline for easier accessibility. 
 
+Screenshot:
 
+![Demo Pic Desktop](https://github.com/kwing25/19-PWA-Online-Offline-Budget-Tracker/blob/main/public/demo/budgettrackerdemodesktop.png)
+![Demo Pic Mobile](https://github.com/kwing25/19-PWA-Online-Offline-Budget-Tracker/blob/main/public/demo/budgettrackerdemomobile.png)
 
 ### 💻 Technologies:
 
-- PWA
+- NodeJS
+- Mongo DB
+- Webpack 
+- No SQL
+- PWA's
+- Express
+- Inquirer
+- Service Worker
+- Javascript
+- HTML/CSS
+- Git
+- VS Code
 
 
 ### 🔗 Links:
 
 - [GitHub Repo](https://github.com/kwing25/19-PWA-Online-Offline-Budget-Tracker)
+- [Heroku Site](https://thawing-harbor-59012.herokuapp.com/)
 
 <a href="https://github.com/kwing25/"><img src="https://img.shields.io/badge/Github - Deployed-24B2D4?style=for-the-badge&logo=Github&link=https://github.com/kwing25/" alt="Github - Deployed" /></a>
-
-<!-- <a href="https://dashboard.heroku.com/"><img src="https://img.shields.io/badge/Heroku - Deployed-24B2D4?style=for-the-badge&logo=Heroku&link=https://dashboard.heroku.com/" alt="Heroku - Deployed" /></a> -->
-
+<a href="https://thawing-harbor-59012.herokuapp.com/"><img src="https://img.shields.io/badge/Heroku - Deployed-24B2D4?style=for-the-badge&logo=Heroku&link=https://dashboard.heroku.com/" alt="Heroku - Deployed" /></a>
 
 ### 🗓️ Status & Updates: ![License: MIT](https://img.shields.io/github/last-commit/kwing25/19-PWA-Online-Offline-Budget-Tracker?style=plastic)
 
 > - Created Repo & Initial Commit - June 29, 2021
+> - Updated Files & Deployed - July 6, 2021
 
 ---
 
@@ -52,6 +66,4 @@ A Budget Tracker that lets users access both online/offline.
 ### [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)  &copy; Kendra Wing 2021
 ---
 <p>&nbsp;</p>
-
-###### ✨👏 *This App was made possible with...* <img src="https://img.shields.io/badge/Apple-000000?style=plastic&logo=Apple"/><img src="https://img.shields.io/badge/VS Code-000000?style=plastic&logo=Visual Studio"/><img src="https://img.shields.io/badge/GitHub-000000?style=plastic&logo=GitHub" alt="GitHub" /><img src="https://img.shields.io/badge/Heroku-000000?style=plastic&logo=Heroku"/><img src="https://img.shields.io/badge/Git-000000?style=plastic&logo=Git" /><img src="https://img.shields.io/badge/GitKraken-000000?style=plastic&logo=GitKraken"/><img src="https://img.shields.io/badge/MDN -000000?style=plastic&logo=MDN Web Docs" /><img src="https://img.shields.io/badge/Google Chrome-000000?style=plastic&logo=Google Chrome"/><img src="https://img.shields.io/badge/Safari-000000?style=plastic&logo=Safari" /><img src="https://img.shields.io/badge/Brave-000000?style=plastic&logo=Brave"/><img src="https://img.shields.io/badge/Bootstrap-000000?style=plastic&logo=Bootstrap" alt="Bootstrap" /><img src="https://img.shields.io/badge/Postman-000000?style=plastic&logo=Postman" alt="Postman" /><img src="https://img.shields.io/badge/JSFiddle-000000?style=plastic&logo=JSFiddle"/><img src="https://img.shields.io/badge/CodePen-000000?style=plastic&logo=CodePen"/><img src="https://img.shields.io/badge/Replit-000000?style=plastic&logo=Replit"/><img src="https://img.shields.io/badge/Adobe Creative Cloud-000000?style=plastic&logo=Adobe Creative Cloud"/><img src="https://img.shields.io/badge/Stack Overflow-000000?style=plastic&logo=Stack Overflow" /><img src="https://img.shields.io/badge/Simple Icons-111111?style=plastic&logo=Simple Icons" alt="Simple Icons" /> *...& so much more!*
 
